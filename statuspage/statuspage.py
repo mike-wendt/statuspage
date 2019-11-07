@@ -28,7 +28,7 @@ COLORED_LABELS = (
     ("1192FC", "investigating",),
     ("FFA500", "degraded performance"),
     ("FF4D4D", "major outage",),
-    ("44c8e5", "planned maintenance"),
+    ("44C8E5", "planned maintenance"),
     ("8914CC", "unplanned maintenance")
 )
 
